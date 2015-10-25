@@ -9,7 +9,7 @@ user@computer:~/.ssh# ./hexhosts > hosthash.txt
 
 Hashcat example
 --------------
-Generate ips-left.txt and ips-right.txt files using ip-gen.sh
+Generate ips-left.txt and ips-right.txt files using ip-gen.sh  
 Original idea:
 https://www.phillips321.co.uk/2012/04/04/cracking-an-md5-of-an-ip-address/
 
